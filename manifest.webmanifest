@@ -1,12 +1,12 @@
 {
-  "name": "StudyTrack 360",
-  "short_name": "StudyTrack 360",
-  "description": "Independent student study planner",
+  "name": "Tracker 360 Pro",
+  "short_name": "Tracker 360",
+  "description": "Multi-stream study planner and free learning resource hub",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f5fb",
-  "theme_color": "#5A4BDA",
+  "background_color": "#f8f9fc",
+  "theme_color": "#5a4bda",
   "icons": [
     {
       "src": "./icon.svg",
